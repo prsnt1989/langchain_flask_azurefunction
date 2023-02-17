@@ -11,3 +11,13 @@ Template code to deploy langchain openai application with Flask on Azure Functio
   },
 ```
 
+* Also add following in the requirements
+
+```
+langchain
+openai
+faiss-cpu
+tiktoken
+Flask
+requests
+```
